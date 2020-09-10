@@ -7,17 +7,17 @@ Como também, oferecer vivência prática-profissional mediante aplicação dos 
 
 ## Desenvolvedores
 
-O projeto foi / está sendo desenvolvido pelos programadores (alunos):
+O projeto foi / está sendo desenvolvido pelos programadores / alunos:
 
-- **[Guilherme Anderson]**;
+- **Guilherme Anderson**;
 
-- **[Vinícius de Sousa]**;
+- **Vinícius de Sousa**;
 
-- **[Luciano Donizetti da Silva]**;
+- **Luciano Donizetti da Silva**;
 
-- **[Igor dos Santos Carvalho]**;
+- **Igor dos Santos Carvalho**;
 
-- **[Vinícius Lima]**;Perilo Carvalho de Oliveira Junior
+- **Vinícius Lima**;
 
-- **[Perilo Carvalho de Oliveira Junior]**
+- **Perilo Carvalho de Oliveira Junior**.
 
