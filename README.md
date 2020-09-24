@@ -80,7 +80,7 @@ Requisitos não funcionais são os requisitos relacionados ao uso da aplicação
 | Estética e Design Minimalista | RFN02 | Criar interface simples e intuitiva | 1 | 
 | Consistência e padrões | RFN03 | Criar interface padronizada | 1 |
 | Disponibilidade | RFN04 | O sistema deverá ser acessado por todos e a qualquer momento | 1 |
-| Desempenho | RFN05 | O projeto como um todo deverá ser rápido para uma melhor utilização | 1 
+| Desempenho | RFN05 | O projeto como um todo deverá ser rápido para uma melhor utilização | 1 |
 | Visibilidade do Status do Sitema | RFN06| O projeto como um todo deverá ser rápido para uma melhor utilização | 1 |
 | Segurança de informação | RFN07 | Apenas informações necessárias serão expostas para consulta | 1 |
 
